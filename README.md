@@ -75,7 +75,7 @@ Punjab, Pakistan
 
 ## 📧 Contact
 
-- **LinkedIn:** [linkedin.com/in/hamnanazar]
+- **LinkedIn:** [linkedin.com/in/hamnanazar](https://www.linkedin.com/in/hamnanazar/)
 - **Email:** hamnanazar600@gmail.com
 
 ---
