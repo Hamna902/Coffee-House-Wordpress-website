@@ -60,7 +60,7 @@ Whether you’re a casual sipper or a true connoisseur, Coffee House provides an
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Coffee House Screenshot](screencapture-hamnanazar-free-nf.png)
 
@@ -75,15 +75,14 @@ Punjab, Pakistan
 
 ## 📧 Contact
 
-- **LinkedIn:** [linkedin.com/in/hamna_nazar]  
-- **Email:** Hamnanazar600@gmail.com
+- **LinkedIn:** [linkedin.com/in/hamnanazar](#)
+- **Email:** hamnanazar600@gmail.com
 
 ---
 
 ## 📝 License
 
 This project is licensed for **educational and personal use**.  
-You are free to explore, modify, or learn from its structure, but please credit the creator if reused.
 
 ---
 
